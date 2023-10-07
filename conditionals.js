@@ -1,16 +1,3 @@
-
-for (let i = 0; i < 10; i++) {
-    console.log ("Hawo")
-    
-}
-
-let count = 0;
-
-while (count< 10) {
-    console.log("Mohamed")
-    count++
-}
-
 let today = "Saturday"
 
 if (today == "Saturday") {
@@ -37,12 +24,3 @@ switch (today) {
     default:
         console.log("Free time...")
         break;
-}
-
-
-
-
-do{
-    console.log("Noor")
-    count++;
-} while (count <10);
