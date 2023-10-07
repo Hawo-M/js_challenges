@@ -24,3 +24,5 @@ switch (today) {
     default:
         console.log("Free time...")
         break;
+
+}
